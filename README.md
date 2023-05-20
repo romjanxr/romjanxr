@@ -48,11 +48,11 @@ I am a versatile and highly skilled software developer with expertise in multipl
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=romjanxr&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=romjanxr&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 98%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romjanxr&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romjanxr&hide_border=true&layout=compact" align="left" style="width: 98%" />
 
 </td></tr></table>  
 
