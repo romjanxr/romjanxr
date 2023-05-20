@@ -18,19 +18,7 @@
 I am a versatile and highly skilled software developer with expertise in multiple programming languages and technologies. With a solid foundation in C/C++, Python, HTML, CSS, React.js, Express.js, Node.js, and Django, I possess a comprehensive understanding of full-stack web development and have a strong grasp of data structures and algorithms.  
   
 
-<br/>  
-
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
+<br/> 
 
 
 ## Languages and Tools  
@@ -80,9 +68,3 @@ I am a versatile and highly skilled software developer with expertise in multipl
   
 
 <br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
