@@ -16,8 +16,6 @@
 
 ### Glad to see you here!  
 I am a versatile and highly skilled software developer with expertise in multiple programming languages and technologies. With a solid foundation in C/C++, Python, HTML, CSS, React.js, Express.js, Node.js, and Django, I possess a comprehensive understanding of full-stack web development and have a strong grasp of data structures and algorithms.  
-  
-
 <br/> 
 
 
