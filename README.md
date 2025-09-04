@@ -12,16 +12,16 @@
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.romjanali.dev" target="_blank">
+  <a href="https://www.romjanali.dev">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=FF1744&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
   </a>
-  <a href="https://linkedin.com/in/romjanxr" target="_blank">
+  <a href="https://linkedin.com/in/romjanxr">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="mailto:romjanvr5@gmail.com" target="_blank">
+  <a href="mailto:romjanvr5@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://discord.com/users/romjanxr" target="_blank">
+  <a href="https://discord.com/users/romjanxr">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
@@ -77,8 +77,6 @@ me.say_hi()
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
 </div>
